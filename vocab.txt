@@ -1,0 +1,9 @@
+[CLS]
+[SEP]
+[PAD]
+[MASK]
+the
+a
+of
+to
+[UNK]
