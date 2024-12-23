@@ -1,4 +1,4 @@
-# Bert-
+# Bert
 BERT model specific code implementation
 
 I. Positional coding-bert/position.py
